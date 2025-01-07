@@ -1,0 +1,26 @@
+---
+title: "Annotated Bibliography"
+bibliography: references.bib
+csl: chicago-syllabus.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+---
+
+# Annual Review Article
+
+@annualrevarticle
+
+
+# References
+
+@ref1
+
+- Summary
+
+- Reliability and relationship to the topic
+
+- Missing pieces
+    - thing 1
+
+    - thing 2
