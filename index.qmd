@@ -9,18 +9,36 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
+@pengPerspectiveDataScience2022
 
 
 # References
 
-@ref1
+@wingTenResearchChallenge2020
 
-- Summary
+- Summary: Wing acknowledges that Data Science is a growing field of study, but argues that more research needs to be done if it wants to be a unique discipline. She presents ten research areas that need to be the center of attention while furthering the field. These areas primarily focus on a better understanding of Artificial Intelligence and dealing with data more effectively.
 
-- Reliability and relationship to the topic
+- Reliability and relationship to the topic: Jeannette M. Wing is the current Executive Vice President for Research at Colombia University, and has published multiple books/articles on Data Science and Computer Science. This gives her great credibility and reliability on the article's topic of Data Science. My literature review article searches for the core of Data Science as a discipline, and this referenced article tries to steer that search by promoting research areas.
+
+- Missing pieces:
+
+    - I have a base level understanding of deep-learning, but I don't know enough about the algorithms to understand the A.I. research areas suggested.
+
+    - I'm not very familiar with computing systems and how they're built. I would need to know more in order to understand Wing's suggestion of catering the design of computing systems towards data applications.
+
+
+@parkerOpinionatedAnalysisDevelopment2017
+
+- Summary: Parker suggests that every analysis development should follow a certain set of rules. She understands that a rigid structure could limit the creative process, but a loose set of rules needs to be followed to maintain the reliability of results. The key features of the analysis development that she proposes are reproducible and auditable, accurate, and collaborative.
+
+- Reliability and relationship to the topic: Hilary Parker is a Data Scientist with a Ph.D. in Biostatistics from the John Hopkins Bloomberg School of Public Health. She has published many articles on Data Science, but this article was not peer-reviewed which limits its reliability. However, she is one of the authors of my main literature review, which means this article heavily relates to my topic, and I believe this gives her some more credibility.
 
 - Missing pieces
-    - thing 1
 
-    - thing 2
+    - The article references multiple R packages, but doesn't explain them in depth. I would need more information/documentation on the packages to fully understand.
+
+    - I only have limited experience with GitHub, but Parker mentions it many times as a solution to the problems that she discusses in analysis development. A more in-depth knowledge of Git and Github would help.
+
+
+
+
