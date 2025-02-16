@@ -1,0 +1,29 @@
+"Perspective on Data Science" Outline
+
+- Abstract
+- Introduction/Motivation
+- Building a Core of Data Science
+    - A Data Analytic Triangle
+        - Example (Analyzing Expected Output vs Observed Output)
+        - Reconciling Unexpected and As-expected Results
+    - A Systems Approach
+        - Data Analysis Systems Development
+        - Data Analytic Iteration
+        - Example (Systems Approach in Data Cleaning)
+    - Data Analytic Design
+        - Design Principles
+    - Data Science Ethics
+- Core Data Science Tooling
+    - Data Analysis Representation
+    - Data Analytic Quality and Reproducibility
+    - Diagnosing Data Analytic Anomalies
+- Bulding a Theory of Data Science
+    - Summarizing Past Experience
+    - Abstracting Common Practice
+    - Lessons Learned
+- Teaching Data Science
+- Summary/Takeaways
+- Bibliography
+
+Missing gaps: This article includes all of the main sections that a literature review should have (intro, body, conclusion, takeaways, future research). Additionally, the authors go into good detai for each section. Although there are no major gaps that are missing, I was surprised that the Data Science 
+process wasn't mentioned at all. It depends on who you ask, but the Data Science process generally includes: defining the problem, data collection/cleaning, EDA, model building, model evaluation, and model deployment. I would argue that this is a very solidified part of Data Science, and its curriculum, these days. It would've been worthwhile to give it a mention, especially when evaluating Data Science theory at the end of the article. 
