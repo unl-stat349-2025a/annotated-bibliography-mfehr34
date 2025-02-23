@@ -1,0 +1,16 @@
+---
+title: "Analyzing Peng and Parker's Argument"
+bibliography: references.bib
+---
+
+**A Theoretical Argument From Peng and Parker**
+
+In the article \"Perspective on Data Science\", Roger Peng and Hilary Parker explore the core concepts of data science and, in doing so, hope to develop theory for the field. After considering the thought processes, software, and design concepts that data scientists share, one of the arguments that Peng and Parker present is that the field of data science would benefit most from theory that summarizes past experiences and commonalities in the field. This type of theory differs from theory in fields like Mathematics and Statistics where theory is universal truths under various assumptions. Peng and Parker provide solid reasoning for this claim, making their argument effective at persuading readers. 
+
+The first reason for Peng and Parker\'s argument is that the constantly changing environment of data science doesn\'t provide for any core universal truths that could be developed into theory. The evidence that they provide for this is the wide variety of new software and tools that are always being developed and integrated into the data process. They argue that this dynamic environment means traditional theory can\'t be developed at this point in the field. This is reasonable since it would be hard to find common truths with new, unique software popping up every day. Maybe once the field becomes more stable, there would be room to find core truths but at this point, it is not possible. 
+
+Secondly, the authors argue theory that summarizes commonalities in Data Science would prove very helpful for newcomers to the field. The evidence provided for this claim is that newcomers could use theory as a guide to get started and tackle various data challenges. Since the field is so vast and new, it can be daunting to start. Experts can ease this feeling by sharing their knowledge of how to approach different situations through theory. There is no one \"right\" way to solve a data problem, so this theory wouldn\'t serve as an absolute truth but instead a summary of experience.
+
+In conclusion, Peng and Parker presented a solid argument by backing it up with evidence and including strong warrants for that evidence. Readers walk away from this article with the shared idea that summarizing past experiences would be a great approach to data science theory.
+
+-   @pengPerspectiveDataScience2022
